@@ -18,7 +18,7 @@ I'm a software engineering student currently interning at **CENETI** (Centre Nat
 
 I enjoy taking a project from database schema to production deployment — backend architecture, clean UI, and the deployment/ops work in between.
 
-- 🌱 Currently learning **React**, **Flutter**, and **C#**
+- 🌱 Currently learning **Python** (for data analysis) and going deeper into **Laravel**
 - 💼 Open to freelance and internship opportunities in web development
 - 📫 Reach me at **basile2bagoudou@gmail.com**
 
