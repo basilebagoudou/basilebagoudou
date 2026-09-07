@@ -14,7 +14,7 @@
 
 ### About
 
-I'm a software engineering student currently interning at **CENETI** (Centre National d'Études et de Traitements Informatiques), a public IT agency in Togo. There, I designed and built a Laravel platform from the ground up: a public-facing site plus a role-based back-office (application review, payment verification, internal messaging), backed by PostgreSQL and deployed with Docker on Railway.
+I'm a software engineering student currently interning at **CENETI** (Centre National d'Études et de Traitements Informatiques), a public IT agency in Togo. There, I designed and built a Laravel platform from the ground up: a public-facing site plus a role-based back-office (application review, internal messaging), backed by PostgreSQL and deployed with Docker on Railway.
 
 I enjoy taking a project from database schema to production deployment — backend architecture, clean UI, and the deployment/ops work in between.
 
@@ -26,7 +26,8 @@ I enjoy taking a project from database schema to production deployment — backe
 
 | Project | Description | Stack |
 |---|---|---|
-| **CENETI Platform** | Public site + secured back-office for a national IT agency (Togo): campaign management, applications, payments, internal messaging | Laravel · Blade · PostgreSQL · Docker |
+| **CENETI Platform** | Public site + secured back-office for a national IT agency (Togo): campaign management, applications, internal messaging | Laravel · Blade · PostgreSQL · Docker |
+| **[Optima](https://github.com/basilebagoudou/optima)** | Desktop app to share a phone's mobile data as Wi-Fi, bypassing carrier tethering detection | Python · Shell |
 | [**Portfolio**](https://basilebagoudou.github.io/Portfolio/) | Personal portfolio showcasing my work | HTML · CSS · JavaScript |
 | **PASS Physique** | Revision app for first-year physics (electrokinetics) | JavaScript |
 | **Coffee Shop Website** | Showcase website for a coffee shop in Lomé | HTML |
